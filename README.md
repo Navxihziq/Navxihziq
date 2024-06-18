@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Zhixuan (智轩), a second-year InfoSci MS student at [Cornell Tech](https://www.tech.cornell.edu/).
 <!--
 **Navxihziq/Navxihziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
