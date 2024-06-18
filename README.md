@@ -17,4 +17,9 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Reach out and see
 -->
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<br>
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
