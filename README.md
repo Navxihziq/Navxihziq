@@ -1,22 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I am Zhixuan!
 
-I am Zhixuan (智轩), a second-year InfoSci MS student at [Cornell Tech](https://www.tech.cornell.edu/).
 <!--
 **Navxihziq/Navxihziq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: a mysterious dashboard
+- 🌱 I’m currently learning: how to potty train your imaginary cat
+- 💬 Ask me about: best burgers in Beijing
+- 📫 How to reach me: zq83 [at] cornell [dot] edu
+- 😄 Pronouns: She/Her
+
+<!--
+- 🤔 I’m looking for help with: tying shoes
+- 👯 I’m looking to collaborate on: world peace
+- ⚡ Fun fact: Reach out and see
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navxihziq&hide=issues&show_icons=true&rank_icon=percentile" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navxihziq&layout=compact&hide_progress=true&theme=transparent" width="39%">
-</p>
+
