@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table style="width:100%;">
+<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=Navxihziq&hide=issues&show_icons=true&rank_icon=percentile")</img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navxihziq&layout=compact&hide_progress=true&theme=transparent"></img>
+</tr>
+</table>
