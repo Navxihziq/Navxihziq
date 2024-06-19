@@ -25,6 +25,6 @@ Here are some ideas to get you started:-->
 <br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=grey)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=vite&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextjs&logoColor=white)
 <br>
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
