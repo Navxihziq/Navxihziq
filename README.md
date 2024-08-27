@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on: a mysterious dashboard
+- 🔭 I’m currently working on: a mysterious dashboard, a power grid modeling tool, and school.
 - 🌱 I’m currently learning: how to potty train your imaginary cat (and astro);
-- 💬 Ask me about: best burgers in Beijing
+- 💬 Ask me about: best burgers in Beijing;
 - 📫 How to reach me: zq83 [at] cornell [dot] edu
 - 😄 Pronouns: She/Her
 
