@@ -4,7 +4,6 @@ I'm an Information Science graduate student at Cornell Tech, passionate about le
 
 - 🔭 Currently working on:
   - Building spatial analytics pipelines to quantify urban service accessibility across US metros
-  - Developing RAG systems to analyze decade-long patterns in NYC community needs
   - Digital twin modeling for power grid resilience
 
 - 🌆 Interests:
