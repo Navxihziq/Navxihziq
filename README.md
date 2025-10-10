@@ -1,13 +1,3 @@
-## 👋 Hi there, I am Zhixuan!
+## Hi there 👋 I'm Zhixuan
 
-I'm an Information Science graduate student at Cornell Tech, passionate about leveraging computational methods and location intelligence to understand urban dynamics and promote equitable cities.
-
-- 🔭 Currently working on:
-  - Building spatial analytics pipelines to quantify urban service accessibility across US metros
-  - Digital twin modeling for power grid resilience
-
-- 🌆 Interests:
-  - Human mobility patterns and urban accessibility
-  - Spatial data engineering for urban analytics
-
-- 📫 How to reach me: zq83 [at] cornell [dot] edu
+I'm currently a **Research Associate** at the **Taubman College of Architecture and Urban Planning, University of Michigan**, working on **RAG**, **zoning ordinances**, and **knowledge graphs**.
